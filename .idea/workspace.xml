@@ -2,29 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="27bb2602-7907-4f94-9d82-0dd7da19fdea" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sneakers-shop.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/addCart.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/addFavorite.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/addedCart.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/addedFavorite.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/arrow.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/close.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/favorite.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/plus.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/removeFromCart.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/search.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/add.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/logo.png" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Card.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Drawer.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Header.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/img/logo.svg" beforeDir="false" afterPath="$PROJECT_DIR$/public/img/logo.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/shoppingcart.svg" beforeDir="false" afterPath="$PROJECT_DIR$/public/img/shoppingCart.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/index.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,7 +65,11 @@
       <workItem from="1658579670212" duration="403000" />
       <workItem from="1658580085997" duration="4433000" />
       <workItem from="1658590750533" duration="1796000" />
-      <workItem from="1658594615248" duration="22873000" />
+      <workItem from="1658594615248" duration="23920000" />
+      <workItem from="1658653811241" duration="179000" />
+      <workItem from="1658654000784" duration="39000" />
+      <workItem from="1658654047665" duration="7638000" />
+      <workItem from="1658682220378" duration="4430000" />
     </task>
     <servers />
   </component>
